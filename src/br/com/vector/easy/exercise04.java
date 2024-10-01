@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class exercise04 {
     public static void main(String[] args) {
-//Preencha um array de 20 números inteiros e conte quantos são pares e quantos são ímpares.
 
         Scanner input = new Scanner(System.in);
 
