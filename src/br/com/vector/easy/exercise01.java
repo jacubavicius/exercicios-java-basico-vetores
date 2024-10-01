@@ -9,7 +9,6 @@ public class exercise01 {
 
         int[] numbers = new int[5];
         int sum = 0;
-        float average;
 
         System.out.println("Informe 5 números:");
         for(int i = 0; i < numbers.length; i++) {
