@@ -3,7 +3,6 @@ package br.com.vector.easy;
 import java.util.Scanner;
 
 public class exercise01 {
-    //oCrie um programa que armazene 5 números inteiros em um array e calcule a soma de todos os elementos.
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -19,9 +18,7 @@ public class exercise01 {
             sum += numbers[i];
         }
 
-        average = (float) sum / numbers.length;
-
-        System.out.printf("A média dos números informado é = %.2f", average);
+        System.out.printf("\nA soma dos números informado é = %d", sum);
     }
 }
 
