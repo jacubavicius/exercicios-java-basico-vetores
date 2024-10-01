@@ -1,5 +1,5 @@
 # :hash: Vetores: lista de exercícios resolvidos em Java
-Os execícios foram gerados atráves do Chat GPT :robot:, com o objetivo de proporcionar a prática da manipulação de arrays em diferentes contextos, desde operações simples como soma de elementos até problemas mais complexos, como algoritmos de busca e ordenação.
+Os execícios foram gerados atráves do Chat GPT :robot: com o objetivo de proporcionar a prática da manipulação de arrays em diferentes contextos, desde operações simples como soma de elementos até problemas mais complexos, como algoritmos de busca e ordenação.
 
 ## :arrow_forward: Exercícios Simples (1 a 10):
 **1.	Soma dos Elementos:** Crie um programa que armazene 5 números inteiros em um array e calcule a soma de todos os elementos.
