@@ -6,8 +6,6 @@ import java.util.Scanner;
 public class exercise11 {
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
-
         int[] numbers = new int[10];
         boolean duplicated = false;
 
