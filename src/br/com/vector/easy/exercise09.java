@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class exercise09 {
     public static void main(String[] args) {
-//o	Crie um array de 10 números e calcule a soma dos elementos que estão em posições ímpares.
+
         Scanner input = new Scanner(System.in);
 
         int[] numbers = new int[10];
